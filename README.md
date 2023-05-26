@@ -10,7 +10,7 @@ Debug the server and get routes working
 ### Links and Resources
 
 - [GitHub Actions ci/cd](https://github.com/MalikTorres/basic-auth)
-- [back-end server](https://bearer-auth-r674.onrender.com)
+- [back-end server](https://basic-auth-tm1k.onrender.com)
 
 
 ### Collaborators
